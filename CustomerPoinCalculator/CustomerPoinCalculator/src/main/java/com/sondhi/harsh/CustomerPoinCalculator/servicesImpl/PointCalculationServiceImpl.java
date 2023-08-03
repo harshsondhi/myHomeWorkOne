@@ -1,9 +1,12 @@
-package com.sondhi.harsh.CustomerPoinCalculator.services;
+package com.sondhi.harsh.CustomerPoinCalculator.servicesImpl;
 
+import com.sondhi.harsh.CustomerPoinCalculator.servicesinterfaces.PointCalculationService;
 import org.springframework.stereotype.Service;
 
 @Service
-public class PointCalculationService {
+public class PointCalculationServiceImpl implements PointCalculationService {
+
+    @Override
     public int calculatePoints(double purchaseAmount) {
         int points = 0;
 
