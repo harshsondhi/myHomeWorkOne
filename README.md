@@ -1,6 +1,6 @@
 
 Github repo can be cloned from https://github.com/harshsondhi/myHomeWorkOne.git
-It is a springboot project configured to use H2 DB. It can be open in any IDE and can be stared as web project or can be packaged as jar.
+It is a springboot project configured to use H2 DB. It can be opened in any IDE and can be stared as web project or can be packaged as jar.
 
 I have enabled swagger , here are few important links
 
