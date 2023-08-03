@@ -2,7 +2,7 @@
 Github repo can be cloned from https://github.com/harshsondhi/myHomeWorkOne.git
 It is a atypocal springboot project
 
-I have swagger enabled , here are a few important links
+I have enabled swagger , here are few important links
 
 1). Swagger as follow
 
