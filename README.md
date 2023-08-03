@@ -1,5 +1,6 @@
 
 Github repo can be cloned from https://github.com/harshsondhi/myHomeWorkOne.git
+It is a atypocal springboot project
 
 I have swagger enabled , here are a few important links
 
@@ -17,7 +18,7 @@ I have swagger enabled , here are a few important links
 
     http://localhost:8081/h2-console
 
-here is the credentials
+here are few important configurations
 
 server.port=8081
 
